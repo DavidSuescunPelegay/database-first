@@ -1,0 +1,10 @@
+F:\VisualStudioProjects\DbFirst\DbFirst\bin\Debug\DbFirst.exe.config
+F:\VisualStudioProjects\DbFirst\DbFirst\bin\Debug\DbFirst.exe
+F:\VisualStudioProjects\DbFirst\DbFirst\bin\Debug\DbFirst.pdb
+F:\VisualStudioProjects\DbFirst\DbFirst\bin\Debug\EntityFramework.dll
+F:\VisualStudioProjects\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.dll
+F:\VisualStudioProjects\DbFirst\DbFirst\bin\Debug\EntityFramework.xml
+F:\VisualStudioProjects\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.xml
+F:\VisualStudioProjects\DbFirst\DbFirst\obj\Debug\DbFirst.csprojResolveAssemblyReference.cache
+F:\VisualStudioProjects\DbFirst\DbFirst\obj\Debug\DbFirst.exe
+F:\VisualStudioProjects\DbFirst\DbFirst\obj\Debug\DbFirst.pdb
